@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prakashchater
 - 👀 I’m interested in learning and exploring things.
-- 🌱 I’m currently learning Python Development
+- 🌱 I’m currently learning Python Development.
 - 💞️ I’m looking to collaborate with Startups or MNCs to get exposure.
 - 📫 How to reach me Github - https://github.com/Prakashchater
 
